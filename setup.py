@@ -17,7 +17,6 @@ setup(
     url = "http://cs.toronto.edu/~darius",
     packages=['mpsolver'],
     platforms = ['any'],
-    install_requires =['numpy',
-                       'pycplex']
+    install_requires =['numpy']
 )
 
