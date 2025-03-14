@@ -10,7 +10,6 @@ setup(
     name = "mpsolver",
     version = "1.0.0",
     author = "Darius Braziunas",
-    author_email = "darius.braziunas@gmail.com",
     description = "Mathematical programming (MP) interface to CPLEX and GLPK solvers",
     long_description=read('README.txt'),
     #keywords = "example documentation tutorial",
